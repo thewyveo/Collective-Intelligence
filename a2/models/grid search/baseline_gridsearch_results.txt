@@ -1,0 +1,4 @@
+prey_birth_rate: float = 0.027500000000000004       # α - reduced from 0.1
+    predation_rate: float = 0.00085     # β - reduced from 0.005
+    predator_death_rate: float = 0.035  # γ - reduced from 0.05
+    predator_reproduction_rate: float = 0.5  # δ - increased from 0.01

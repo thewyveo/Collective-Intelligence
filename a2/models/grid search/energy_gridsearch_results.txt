@@ -1,0 +1,2 @@
+Parameters: {'prey_birth_rate': 0.012, 'predation_rate': 0.0008, 'predator_death_rate': 0.035, 'predator_reproduction_rate': 0.4, 'energy_decay_rate': 0.06, 'energy_gain_from_eating': 1.8}
+Frames survived: 3568
